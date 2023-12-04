@@ -50,4 +50,4 @@ jobs:
           app-name: 'rec-java'
           slot-name: 'Production'
           package: '*.jar'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4623115861F34291AD822A301CD4E0FA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_10C434B745954B3FB893207D85BC90FA }}
